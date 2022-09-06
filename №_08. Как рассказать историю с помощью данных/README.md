@@ -2,7 +2,7 @@
 
 ## Презентация 📕
 
-Ссылка: https://cloud.mail.ru/public/2Lub/C2CXnnjhB
+Ссылка: https://disk.yandex.ru/i/TQYdiVeGMHUMHQ
 
 ## Описание данных 🗂
 
