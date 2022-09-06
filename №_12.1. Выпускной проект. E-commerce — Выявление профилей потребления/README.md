@@ -4,7 +4,9 @@
 
 Ссылка: https://disk.yandex.ru/i/Dz8TyvAP3L-5aw
 
+## Дашборд 📊
 
+Ссылка - https://public.tableau.com/app/profile/vadim7938/viz/Dashboard_16603949769430/Dashboard1
 
 ## Описание данных 🗂
 
