@@ -1,6 +1,6 @@
 ## Проекты с курса ["Аналитик данных" от Яндекс Практикум](https://practicum.yandex.ru/profile/data-analyst/)
-### [Сертификат на русском](https://disk.yandex.ru/i/m4cLOa9b-KLMoQ)
-### [Сертификат на английском](https://disk.yandex.ru/i/ALDp88qNvyakrg)
+### [Сертификат](https://disk.yandex.ru/i/m4cLOa9b-KLMoQ) на русском
+### [Сертификат](https://disk.yandex.ru/i/ALDp88qNvyakrg) на английском
 
 | Номер | Название | Описание | Навыки и инструменты |
 | :--- | :--- | :--- | :--- |
